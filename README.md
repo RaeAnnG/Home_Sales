@@ -16,6 +16,11 @@ This challenge required using SparkSQL to determine key metrics about home sales
 - The query from step 6 was run on the parquet temporary table, and the run time was computed.
 - The "home_sales" temporary table was uncached and verified.
 
+# Files Included
+- Home_Sales_colab_RG - my code that was ran in colag
+- Home_Sales_starter_code.ipynb - Jupyter starter code
+- Home_Sales_starter_code_colab.ipynb - CoLab starter code
+
 # Resources
 I received help from the following
 
